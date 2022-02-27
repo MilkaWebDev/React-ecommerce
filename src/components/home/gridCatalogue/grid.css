@@ -1,0 +1,26 @@
+.grid{
+    position: absolute;
+    margin: 30% 20% 10%;
+    display: grid;
+
+    grid-template-columns: repeat(2, 552px);
+    grid-template-rows: repeat(4, 552px);
+
+    justify-items: center;
+    align-items: center;
+
+    height: 2208px;
+    width: 1104px;
+    
+    
+
+    background: rgba(241, 229, 206, 0.51);
+}
+
+.grid h1{
+    font-family: Audrey;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 45px;
+    line-height: 54px;
+}

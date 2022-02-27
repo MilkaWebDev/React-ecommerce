@@ -1,0 +1,30 @@
+.categories{
+    position: absolute;
+    margin-top: 30%;
+    margin-left: 10%;
+
+    text-transform: uppercase;
+
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.categories h2{
+    
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 22px;
+
+    
+}
+
+.categories ul{
+    list-style: none;
+}
+
+.categories ul li{
+    font-size: 20px;
+    padding: 5% 0;
+}

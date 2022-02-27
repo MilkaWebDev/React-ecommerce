@@ -1,0 +1,33 @@
+.botonera{
+    width: 150px;
+    height: 40px;
+    display: flex;
+    margin-top: 2%;
+    align-items: center;
+    padding: 0%;
+    border: 1px solid #6ca78d;
+}
+.botonera h3{
+    padding: 0 19%;
+    font-size: 25px;
+
+}
+
+.countBtn{
+    background: #6ca78d;
+	color: white;
+	
+	font: inherit;
+	cursor: pointer;
+    border: 1px solid #6ca78d;
+
+    font-size: 30px;
+
+    width: 40px;
+    height: 40px;
+    padding: 0%;
+    margin: 0%;
+    
+    text-align: center;
+    
+}

@@ -1,0 +1,21 @@
+.itemList{
+    position: absolute;
+    margin-top: 30%;
+    margin-left: 40%;
+    display: block;
+  
+    
+}
+
+.cardsContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+
+.CardLink{
+    text-decoration: none;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+}

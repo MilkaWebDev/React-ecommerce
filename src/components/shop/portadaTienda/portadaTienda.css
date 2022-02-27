@@ -1,0 +1,8 @@
+.portadaTienda{
+    position: absolute;
+    width: 100%;
+    height: 50%;
+    background-image: url(../../../assets/portadaTienda.png);
+    
+    display: block;
+}

@@ -1,0 +1,25 @@
+.itemDetail{
+    position: absolute;
+    margin-top: 15%;
+
+    padding: 15%;
+
+    display: flex;
+    justify-content: center;
+    text-align: left;
+}
+
+.detailImg{
+    width: 400px;
+    height: 600px;
+    padding-right: 10%;
+}
+
+.detailTitle{
+    font-size: 40px;
+    padding-bottom: 2%;
+}
+
+.detailDescription{
+    font-size: 25px;
+}

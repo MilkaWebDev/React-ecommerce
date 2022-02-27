@@ -1,0 +1,10 @@
+.PortadaCarrito{
+    
+        position: absolute;
+        width: 100%;
+        height: 50%;
+        background-image: url(../../../assets/portadaCarrito.png);
+        
+        display: block;
+    
+}

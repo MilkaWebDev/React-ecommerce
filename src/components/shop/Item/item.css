@@ -1,0 +1,31 @@
+.cardContainer{
+    height: 450px;
+    width: 300px;
+    margin: 10%;
+    font-family: 'Poppins', sans-serif;
+    
+
+    text-align: left;
+    
+    
+}
+
+.cardImg{
+    width: 200px;
+    height: 250px;
+    left: 50%;
+}
+
+.cardTitle{
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 2%;
+}
+
+
+.cardPrice{
+    font-size: 18px;
+    font-weight: bolder;
+    float: right;
+
+}

@@ -1,0 +1,15 @@
+.btnAgregar{
+    background: #6ca78d;
+	
+	border: 2px solid #6ca78d;
+    box-sizing: border-box;
+	padding: 1% 5%;
+    margin-top: 5%;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+
+    font-size: 25px;
+    color: white ;
+    
+}
